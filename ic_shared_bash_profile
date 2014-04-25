@@ -1,0 +1,9 @@
+alias ll="ls -l"
+alias live1="ssh -i ~/aws_keys/aws_eu_ashah.pem ec2-user@54.194.156.142"
+alias live2="ssh -i ~/aws_keys/aws_eu_ashah.pem ec2-user@54.194.49.67"
+alias worker1="ssh -i ~/aws_keys/aws_eu_ashah.pem ec2-user@54.72.209.79"
+
+alias gs="clear && git status"
+alias gd="clear && git diff"
+alias ga="git add"
+alias gb="git branch"
