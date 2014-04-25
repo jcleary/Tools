@@ -1,3 +1,4 @@
+shopt -s expand_aliases
 alias ll="ls -l"
 alias live1="ssh -i ~/aws_keys/aws_eu_ashah.pem ec2-user@54.194.156.142"
 alias live2="ssh -i ~/aws_keys/aws_eu_ashah.pem ec2-user@54.194.49.67"
